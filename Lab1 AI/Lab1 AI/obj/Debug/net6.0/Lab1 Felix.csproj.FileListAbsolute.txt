@@ -1,0 +1,15 @@
+C:\Users\unchi\OneDrive\Desktop\C sharp 2nd semester\Lab1 AI\Lab1 AI\bin\Debug\net6.0\Lab1 Felix.exe
+C:\Users\unchi\OneDrive\Desktop\C sharp 2nd semester\Lab1 AI\Lab1 AI\bin\Debug\net6.0\Lab1 Felix.deps.json
+C:\Users\unchi\OneDrive\Desktop\C sharp 2nd semester\Lab1 AI\Lab1 AI\bin\Debug\net6.0\Lab1 Felix.runtimeconfig.json
+C:\Users\unchi\OneDrive\Desktop\C sharp 2nd semester\Lab1 AI\Lab1 AI\bin\Debug\net6.0\Lab1 Felix.dll
+C:\Users\unchi\OneDrive\Desktop\C sharp 2nd semester\Lab1 AI\Lab1 AI\bin\Debug\net6.0\Lab1 Felix.pdb
+C:\Users\unchi\OneDrive\Desktop\C sharp 2nd semester\Lab1 AI\Lab1 AI\obj\Debug\net6.0\Lab1 Felix.csproj.AssemblyReference.cache
+C:\Users\unchi\OneDrive\Desktop\C sharp 2nd semester\Lab1 AI\Lab1 AI\obj\Debug\net6.0\Lab1 Felix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unchi\OneDrive\Desktop\C sharp 2nd semester\Lab1 AI\Lab1 AI\obj\Debug\net6.0\Lab1 Felix.AssemblyInfoInputs.cache
+C:\Users\unchi\OneDrive\Desktop\C sharp 2nd semester\Lab1 AI\Lab1 AI\obj\Debug\net6.0\Lab1 Felix.AssemblyInfo.cs
+C:\Users\unchi\OneDrive\Desktop\C sharp 2nd semester\Lab1 AI\Lab1 AI\obj\Debug\net6.0\Lab1 Felix.csproj.CoreCompileInputs.cache
+C:\Users\unchi\OneDrive\Desktop\C sharp 2nd semester\Lab1 AI\Lab1 AI\obj\Debug\net6.0\Lab1 Felix.dll
+C:\Users\unchi\OneDrive\Desktop\C sharp 2nd semester\Lab1 AI\Lab1 AI\obj\Debug\net6.0\refint\Lab1 Felix.dll
+C:\Users\unchi\OneDrive\Desktop\C sharp 2nd semester\Lab1 AI\Lab1 AI\obj\Debug\net6.0\Lab1 Felix.pdb
+C:\Users\unchi\OneDrive\Desktop\C sharp 2nd semester\Lab1 AI\Lab1 AI\obj\Debug\net6.0\Lab1 Felix.genruntimeconfig.cache
+C:\Users\unchi\OneDrive\Desktop\C sharp 2nd semester\Lab1 AI\Lab1 AI\obj\Debug\net6.0\ref\Lab1 Felix.dll
